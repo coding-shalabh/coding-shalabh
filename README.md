@@ -1,60 +1,70 @@
 <div align="center">
 
-<!-- Header Banner -->
+<!-- ====== HERO SECTION ====== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Shalabh%20Gupta&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20Lead%20%E2%80%A2%20Builder&descSize=16&descAlignY=55"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=6E4BEB&center=true&vCenter=true&repeat=true&random=false&width=600&height=28&lines=Building+Production+AI+Systems+%26+Agentic+Workflows;6%2B+Years+%7C+70%2B+Websites+%7C+4+AWS+Servers+%7C+Always+Shipping" alt="Typing SVG" /></a>
+<br/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6E4BEB&center=true&vCenter=true&repeat=true&random=false&width=650&height=30&lines=%F0%9F%A4%96+Building+Production+AI+Systems;%F0%9F%9A%80+Shipping+Agentic+Workflows+%26+RAG+Pipelines;%E2%9A%A1+6%2B+Years+%7C+70%2B+Websites+%7C+4+AWS+Servers;%F0%9F%94%A5+Always+Shipping.+Always+Learning." alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Social Links — Large, Visual -->
+<a href="https://www.linkedin.com/in/shalabh-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>&nbsp;
+<a href="mailto:shalabhh.gupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>&nbsp;
+<a href="https://github.com/coding-shalabh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=coding-shalabh&label=Visitors&color=6E4BEB&style=for-the-badge" height="35" />
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════ ROW 1 — ABOUT ═══════════════════ -->
+<!-- ====== ABOUT + CODING GIF ====== -->
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### `$ whoami`
+## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-```js
-const shalabh = {
-  role: "AI Engineer & Full Stack Dev Lead",
-  location: "Bangalore, India",
-  experience: "6+ years",
-  origin: "ME → Self-taught → AI Engineer",
-  superpower: "0 to deployed in one sitting",
-  motto: "Ship it. Learn. Ship again."
-};
-```
+I'm a **Full Stack Dev Lead** turned **AI Engineer** based in Bangalore.
+
+I went from Mechanical Engineering to building **production AI systems** — self-taught, no CS degree, just relentless shipping.
+
+**What I do:**
+
+- Build **multi-agent AI systems** & **RAG pipelines** in production
+- Manage **4 AWS servers** — hardened, monitored, automated
+- Ship **SaaS products** on the side (3 apps, 1 CRM with 157 models)
+- Attend builder events & hackathons in Bangalore
+
+**Quick stats:**
+- `70+` websites shipped (72-hr turnarounds)
+- `12` tools in my production RAG chatbot
+- `6` autonomous AI agent workflows running
+- `157` database models in my WhatsApp CRM
 
 </td>
-<td width="50%" valign="top">
+<td width="45%" align="center">
 
-### `$ cat shipped.log`
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
-```
-✓ 70+ websites (72-hr turnarounds)
-✓ Production RAG chatbot — 12 tools
-✓ Multi-agent content platform
-✓ 3 SaaS apps (monorepo)
-✓ WhatsApp-first CRM — 157 models
-✓ 6 autonomous AI agent workflows
-✓ 4 AWS servers — hardened
-```
+<br/><br/>
+
+<!-- Spotify Now Playing -->
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31jmjfq4v3wx7oqmlhflqpf4drsu&cover_image=true&theme=novatorem&show_offline=true&background_color=0D1117&interchange=true&bar_color=6E4BEB&bar_color_cover=true)](https://github.com/kittinanx/spotify-github-profile)
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════ ROW 2 — TECH STACK ═══════════════════ -->
+<!-- ====== TECH STACK ====== -->
 <div align="center">
 
-### `$ ls tech-stack/`
+## `$ ls tech-stack/`
 
 </div>
 
-<!-- Tech Row 1 -->
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
@@ -86,10 +96,6 @@ const shalabh = {
 
 </td>
 </tr>
-</table>
-
-<!-- Tech Row 2 -->
-<table>
 <tr>
 <td width="50%" align="center" valign="top">
 
@@ -120,76 +126,47 @@ const shalabh = {
 </tr>
 </table>
 
-<!-- ═══════════════════ ROW 3 — STATS (transparent bg) ═══════════════════ -->
-<table>
-<tr>
-<td width="50%" align="center">
+<!-- ====== GITHUB STATS ====== -->
+<div align="center">
 
-### `$ git stats`
+## `$ git stats`
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=coding-shalabh&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E4BEB&icon_color=6E4BEB&text_color=c9d1d9&ring_color=6E4BEB" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=coding-shalabh&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E4BEB&icon_color=6E4BEB&text_color=333333&ring_color=6E4BEB" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=coding-shalabh&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E4BEB&icon_color=6E4BEB&text_color=c9d1d9&ring_color=6E4BEB" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=coding-shalabh&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E4BEB&icon_color=6E4BEB&text_color=c9d1d9&ring_color=6E4BEB" />
 </picture>
-
-</td>
-<td width="50%" align="center">
-
-### `$ git streak`
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=coding-shalabh&hide_border=true&background=00000000&ring=6E4BEB&fire=6E4BEB&currStreakLabel=6E4BEB&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=coding-shalabh&hide_border=true&background=00000000&ring=6E4BEB&fire=6E4BEB&currStreakLabel=6E4BEB&sideLabels=333333&dates=888888&currStreakNum=333333&sideNums=333333" />
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=coding-shalabh&hide_border=true&background=00000000&ring=6E4BEB&fire=6E4BEB&currStreakLabel=6E4BEB&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=coding-shalabh&hide_border=true&background=00000000&ring=6E4BEB&fire=6E4BEB&currStreakLabel=6E4BEB&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </picture>
 
-</td>
-</tr>
-</table>
+</div>
 
-<!-- ═══════════════════ ROW 4 — LANGUAGES + NOW ═══════════════════ -->
-<table>
-<tr>
-<td width="50%" align="center">
+<!-- ====== WHAT I'M UP TO ====== -->
+<details>
+<summary><h2>🎯 What I'm Working On</h2></summary>
+<br/>
 
-### `$ wc -l *.{ts,py,js}`
+| Area | Details |
+|---|---|
+| **Building** | Production AI agents with multi-model orchestration |
+| **Exploring** | Reinforcement learning & small language models (Gemma) |
+| **Automating** | Everything that can be automated with n8n + AI |
+| **Attending** | Builder events in Bangalore (Shipping Saturday, GDG) |
+| **Competing** | Meta PyTorch OpenEnv Hackathon |
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=6E4BEB&text_color=c9d1d9&langs_count=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=6E4BEB&text_color=333333&langs_count=6" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=6E4BEB&text_color=c9d1d9&langs_count=6" />
-</picture>
+</details>
 
-</td>
-<td width="50%" valign="top">
+<!-- ====== CONTRIBUTION GRAPH ====== -->
+<details>
+<summary><h2>📊 Contribution Graph</h2></summary>
+<br/>
 
-### `$ cat now.md`
-
-> **Building** — AI agents, multi-model orchestration
->
-> **Exploring** — RL & small language models
->
-> **Automating** — Everything possible
->
-> **Attending** — Builder events in Bangalore
->
-> **Competing** — Meta PyTorch Hackathon
-
-```
-  ALWAYS SHIPPING. ALWAYS LEARNING.
-```
-
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════ ROW 5 — GRAPH ═══════════════════ -->
-<table>
-<tr>
-<td width="100%">
-
-### `$ git log --graph`
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=coding-shalabh&hide_border=true&bg_color=00000000&color=6E4BEB&line=6E4BEB&point=FFFFFF&area=true&area_color=6E4BEB" />
@@ -197,55 +174,43 @@ const shalabh = {
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-shalabh&hide_border=true&bg_color=00000000&color=6E4BEB&line=6E4BEB&point=FFFFFF&area=true&area_color=6E4BEB" />
 </picture>
 
-</td>
-</tr>
-</table>
-
-<!-- ═══════════════════ ROW 6 — CONNECT ═══════════════════ -->
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `$ cat .env.social`
-
-```env
-LINKEDIN=linkedin.com/in/shalabh-dev
-GITHUB=github.com/coding-shalabh
-EMAIL=shalabhh.gupta@gmail.com
-LOCATION=Bangalore, India
-STATUS=Open to collabs & AI projects
-```
-
-</td>
-<td width="50%" align="center" valign="middle">
-
-<br/>
-<a href="https://www.linkedin.com/in/shalabh-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
-<a href="mailto:shalabhh.gupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
-<a href="https://github.com/coding-shalabh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<br/><br/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=coding-shalabh&label=Profile%20Views&color=6E4BEB&style=flat-square" alt="Profile Views" />
-&nbsp;&nbsp;
-<a href="https://github.com/coding-shalabh?tab=followers"><img src="https://img.shields.io/github/followers/coding-shalabh?label=Followers&style=flat-square&color=6E4BEB&labelColor=1a1b27" alt="Followers" /></a>
-
-<br/><br/>
-
-*"The gap between 'I can't code' and 'I build AI agents' is just daily reps for 2-3 years."*
-
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=compact&hide_border=true&bg_color=00000000&title_color=6E4BEB&text_color=c9d1d9&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=compact&hide_border=true&bg_color=00000000&title_color=6E4BEB&text_color=333333&langs_count=8" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=compact&hide_border=true&bg_color=00000000&title_color=6E4BEB&text_color=c9d1d9&langs_count=8" />
+</picture>
 
 </div>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</details>
+
+<!-- ====== FUN FACTS ====== -->
+<details>
+<summary><h2>⚡ Fun Facts</h2></summary>
+<br/>
+
+```yaml
+origin_story: "Mechanical Engineer who thought APIs were medicine"
+first_break: "Built a Ludo game that got 1,000 users"
+speed_record: "70+ websites at AffinityX in 72-hour turnarounds"
+scariest_bug: "Users seeing each other's chat sessions — zero filtering"
+fuel: "Chai ☕ and the fear of a 3 AM production alert"
+philosophy: "The demo is 10% of the work. Infrastructure is the other 90%."
+```
+
+</details>
+
+<br/>
+
+<!-- ====== FOOTER ====== -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20gap%20between%20%27I%20can%27t%20code%27%20and%20%27I%20build%20AI%20agents%27%20is%20just%20daily%20reps%20for%202-3%20years.&author=Shalabh%20Gupta" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
