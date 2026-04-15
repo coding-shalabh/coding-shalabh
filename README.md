@@ -61,7 +61,11 @@ const shalabh = {
 
 #### `languages/`
 <br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,tailwind&perline=3&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,tailwind&perline=3&theme=light" /><img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,tailwind&perline=3" /></picture>
+<img src="https://skillicons.dev/icons?i=ts,js,python&perline=3" />
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&perline=3" />
+<br/>
+<img src="https://skillicons.dev/icons?i=express,fastapi,tailwind&perline=3" />
 <br/><br/>
 
 </td>
@@ -69,7 +73,7 @@ const shalabh = {
 
 #### `ai-and-agents/`
 <br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3&theme=light" /><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3" /></picture>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3" />
 <br/><br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="32" />
 <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="32" />
@@ -91,7 +95,11 @@ const shalabh = {
 
 #### `database-and-infra/`
 <br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,aws,docker,nginx,linux,prisma&perline=3&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,aws,docker,nginx,linux,prisma&perline=3&theme=light" /><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,aws,docker,nginx,linux,prisma&perline=3" /></picture>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=3" />
+<br/>
+<img src="https://skillicons.dev/icons?i=sqlite,aws,docker&perline=3" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nginx,linux,prisma&perline=3" />
 <br/><br/>
 
 </td>
@@ -99,7 +107,9 @@ const shalabh = {
 
 #### `tools-and-devops/`
 <br/>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,bash&perline=3&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,bash&perline=3&theme=light" /><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,bash&perline=3" /></picture>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,vercel,bash&perline=3" />
 <br/><br/>
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="32" />
 <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="32" />
