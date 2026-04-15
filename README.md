@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animated Header — works on both themes (white text on gradient) -->
+<!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Shalabh%20Gupta&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20Lead%20%E2%80%A2%20Builder&descSize=16&descAlignY=55"/>
 
 <!-- Typing Animation -->
@@ -10,7 +10,7 @@
 
 <br/>
 
-<!-- ═══════════════════ BENTO ROW 1 — ABOUT ═══════════════════ -->
+<!-- ═══════════════════ ROW 1 — ABOUT ═══════════════════ -->
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -47,128 +47,109 @@ const shalabh = {
 </tr>
 </table>
 
-<!-- ═══════════════════ BENTO ROW 2 — TECH STACK ═══════════════════ -->
+<!-- ═══════════════════ ROW 2 — TECH STACK ═══════════════════ -->
 <div align="center">
 
 ### `$ ls tech-stack/`
 
 </div>
 
+<!-- Tech Row 1 -->
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
 #### `languages/`
-
 <br/>
-<img src="https://skillicons.dev/icons?i=ts,js,python&perline=3#gh-dark-mode-only" />
-<img src="https://skillicons.dev/icons?i=ts,js,python&perline=3&theme=light#gh-light-mode-only" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&perline=3#gh-dark-mode-only" />
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&perline=3&theme=light#gh-light-mode-only" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=express,fastapi,tailwind&perline=3#gh-dark-mode-only" />
-<img src="https://skillicons.dev/icons?i=express,fastapi,tailwind&perline=3&theme=light#gh-light-mode-only" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,tailwind&perline=3&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,tailwind&perline=3&theme=light" /><img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi,tailwind&perline=3" /></picture>
 <br/><br/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 #### `ai-and-agents/`
-
 <br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3#gh-dark-mode-only" />
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3&theme=light#gh-light-mode-only" />
-&nbsp;&nbsp;<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white" height="48" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3&theme=light" /><img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3" /></picture>
 <br/><br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="48" />
-<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="48" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="48" />
-<br/><br/>
-<img src="https://img.shields.io/badge/Multi--Agent-8B5CF6?style=for-the-badge&logoColor=white" height="48" />
-<img src="https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge&logoColor=white" height="48" />
-<img src="https://img.shields.io/badge/Embeddings-00C7B7?style=for-the-badge&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" />
+<br/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/Multi--Agent-8B5CF6?style=for-the-badge&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge&logoColor=white" height="32" />
 <br/><br/>
 
 </td>
 </tr>
 </table>
 
+<!-- Tech Row 2 -->
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
 
 #### `database-and-infra/`
-
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=3#gh-dark-mode-only" />
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=3&theme=light#gh-light-mode-only" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=sqlite,aws,docker&perline=3#gh-dark-mode-only" />
-<img src="https://skillicons.dev/icons?i=sqlite,aws,docker&perline=3&theme=light#gh-light-mode-only" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=nginx,linux,prisma&perline=3#gh-dark-mode-only" />
-<img src="https://skillicons.dev/icons?i=nginx,linux,prisma&perline=3&theme=light#gh-light-mode-only" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,aws,docker,nginx,linux,prisma&perline=3&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,aws,docker,nginx,linux,prisma&perline=3&theme=light" /><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,aws,docker,nginx,linux,prisma&perline=3" /></picture>
 <br/><br/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 #### `tools-and-devops/`
-
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3#gh-dark-mode-only" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=light#gh-light-mode-only" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,bash&perline=3&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,bash&perline=3&theme=light" /><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,bash&perline=3" /></picture>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=figma,vercel,bash&perline=3#gh-dark-mode-only" />
-<img src="https://skillicons.dev/icons?i=figma,vercel,bash&perline=3&theme=light#gh-light-mode-only" />
-<br/><br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="48" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="48" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="32" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="32" />
 <br/><br/>
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════ BENTO ROW 3 — STATS ═══════════════════ -->
+<!-- ═══════════════════ ROW 3 — STATS (transparent bg) ═══════════════════ -->
 <table>
 <tr>
 <td width="50%" align="center">
 
 ### `$ git stats`
 
-<!-- Dark mode -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=coding-shalabh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6E4BEB&icon_color=6E4BEB&text_color=c9d1d9&ring_color=6E4BEB#gh-dark-mode-only" />
-<!-- Light mode -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=coding-shalabh&show_icons=true&hide_border=true&bg_color=ffffff&title_color=6E4BEB&icon_color=6E4BEB&text_color=333333&ring_color=6E4BEB#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=coding-shalabh&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E4BEB&icon_color=6E4BEB&text_color=c9d1d9&ring_color=6E4BEB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=coding-shalabh&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E4BEB&icon_color=6E4BEB&text_color=333333&ring_color=6E4BEB" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=coding-shalabh&show_icons=true&hide_border=true&bg_color=00000000&title_color=6E4BEB&icon_color=6E4BEB&text_color=c9d1d9&ring_color=6E4BEB" />
+</picture>
 
 </td>
 <td width="50%" align="center">
 
 ### `$ git streak`
 
-<!-- Dark mode -->
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=coding-shalabh&hide_border=true&background=0D1117&ring=6E4BEB&fire=6E4BEB&currStreakLabel=6E4BEB&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9#gh-dark-mode-only" />
-<!-- Light mode -->
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=coding-shalabh&hide_border=true&background=ffffff&ring=6E4BEB&fire=6E4BEB&currStreakLabel=6E4BEB&sideLabels=333333&dates=888888&currStreakNum=333333&sideNums=333333#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=coding-shalabh&hide_border=true&background=00000000&ring=6E4BEB&fire=6E4BEB&currStreakLabel=6E4BEB&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=coding-shalabh&hide_border=true&background=00000000&ring=6E4BEB&fire=6E4BEB&currStreakLabel=6E4BEB&sideLabels=333333&dates=888888&currStreakNum=333333&sideNums=333333" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=coding-shalabh&hide_border=true&background=00000000&ring=6E4BEB&fire=6E4BEB&currStreakLabel=6E4BEB&sideLabels=c9d1d9&dates=555555&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+</picture>
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════ BENTO ROW 4 — LANGUAGES + NOW ═══════════════════ -->
+<!-- ═══════════════════ ROW 4 — LANGUAGES + NOW ═══════════════════ -->
 <table>
 <tr>
 <td width="50%" align="center">
 
 ### `$ wc -l *.{ts,py,js}`
 
-<!-- Dark mode -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=6E4BEB&text_color=c9d1d9&langs_count=6#gh-dark-mode-only" />
-<!-- Light mode -->
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=donut-vertical&hide_border=true&bg_color=ffffff&title_color=6E4BEB&text_color=333333&langs_count=6#gh-light-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=6E4BEB&text_color=c9d1d9&langs_count=6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=6E4BEB&text_color=333333&langs_count=6" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coding-shalabh&layout=donut-vertical&hide_border=true&bg_color=00000000&title_color=6E4BEB&text_color=c9d1d9&langs_count=6" />
+</picture>
 
 </td>
 <td width="50%" valign="top">
@@ -193,27 +174,24 @@ const shalabh = {
 </tr>
 </table>
 
-<!-- ═══════════════════ BENTO ROW 5 — GRAPH ═══════════════════ -->
+<!-- ═══════════════════ ROW 5 — GRAPH ═══════════════════ -->
 <table>
 <tr>
 <td width="100%">
 
 ### `$ git log --graph`
 
-<!-- Dark mode -->
-<a href="https://github.com/coding-shalabh">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-shalabh&hide_border=true&bg_color=0D1117&color=6E4BEB&line=6E4BEB&point=FFFFFF&area=true&area_color=6E4BEB#gh-dark-mode-only" />
-</a>
-<!-- Light mode -->
-<a href="https://github.com/coding-shalabh">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-shalabh&hide_border=true&bg_color=ffffff&color=6E4BEB&line=6E4BEB&point=333333&area=true&area_color=E8E0FF#gh-light-mode-only" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=coding-shalabh&hide_border=true&bg_color=00000000&color=6E4BEB&line=6E4BEB&point=FFFFFF&area=true&area_color=6E4BEB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=coding-shalabh&hide_border=true&bg_color=00000000&color=6E4BEB&line=6E4BEB&point=333333&area=true&area_color=E8E0FF" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=coding-shalabh&hide_border=true&bg_color=00000000&color=6E4BEB&line=6E4BEB&point=FFFFFF&area=true&area_color=6E4BEB" />
+</picture>
 
 </td>
 </tr>
 </table>
 
-<!-- ═══════════════════ BENTO ROW 6 — CONNECT ═══════════════════ -->
+<!-- ═══════════════════ ROW 6 — CONNECT ═══════════════════ -->
 <table>
 <tr>
 <td width="50%" valign="top">
