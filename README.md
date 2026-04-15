@@ -56,45 +56,33 @@ const shalabh = {
 
 <br/>
 
-<div>
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="50" height="50" />
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
-</div>
+**`languages & frameworks`**
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,fastapi,tailwind,prisma,mongodb,postgres,redis,sqlite,linux,git,vscode,figma&perline=7&theme=dark" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi&perline=8&theme=dark" />
 
 **`ai & agents`**
-<br/><br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic_Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector_Search-4285F4?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Multi--Agent_Systems-8B5CF6?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic_Workflows-00C7B7?style=for-the-badge&logoColor=white" />
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=bots&perline=8&theme=dark" />
 
-**`automation & devops`**
-<br/><br/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Multi--Agent-8B5CF6?style=for-the-badge&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge&logoColor=white" height="28" />
+
+**`database & infrastructure`**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,aws,nginx,docker&perline=8&theme=dark" />
+
+**`tools & devops`**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,tailwind,prisma&perline=8&theme=dark" />
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="28" />
 
 <br/><br/>
 
