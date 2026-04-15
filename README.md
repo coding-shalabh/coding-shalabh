@@ -47,42 +47,85 @@ const shalabh = {
 </tr>
 </table>
 
-<!-- ═══════════════════ BENTO ROW 2 — TECH STACK ═══════════════════ -->
-<table>
-<tr>
-<td width="100%" align="center">
+<!-- ═══════════════════ BENTO ROW 2 — TECH STACK HEADER ═══════════════════ -->
+<div align="center">
 
 ### `$ ls tech-stack/`
 
+</div>
+
+<!-- TECH BENTO: ROW 1 — Languages + AI -->
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+#### `languages/`
+
 <br/>
 
-**`languages & frameworks`**
+<img src="https://skillicons.dev/icons?i=ts,js,python&perline=3&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs&perline=3&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=express,fastapi&perline=3&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,express,fastapi&perline=8&theme=dark" />
+<br/><br/>
 
-**`ai & agents`**
+</td>
+<td width="50%" align="center" valign="top">
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8&theme=dark" />
-<img src="https://skillicons.dev/icons?i=bots&perline=8&theme=dark" />
+#### `ai-and-agents/`
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Multi--Agent-8B5CF6?style=for-the-badge&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge&logoColor=white" height="28" />
+<br/>
 
-**`database & infrastructure`**
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=3&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="30" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logoColor=white" height="30" />
+<br/>
+<img src="https://img.shields.io/badge/Multi--Agent-8B5CF6?style=for-the-badge&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge&logoColor=white" height="30" />
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite,aws,nginx,docker&perline=8&theme=dark" />
+<br/><br/>
 
-**`tools & devops`**
+</td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,tailwind,prisma&perline=8&theme=dark" />
+<!-- TECH BENTO: ROW 2 — Database + Tools -->
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="28" />
+#### `database-and-infra/`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis&perline=3&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=sqlite,aws,docker&perline=3&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nginx,linux&perline=3&theme=dark" />
+
+<br/><br/>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+#### `tools-and-devops/`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,tailwind,prisma&perline=3&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" height="30" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="30" />
 
 <br/><br/>
 
